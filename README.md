@@ -10,12 +10,5 @@ About Me
 🤝 Open to collaboration and knowledge sharing<br>
 
 
-Interests<br>
-
-Software architecture & engineering best practices<br>
-Cloud engineering, DevOps, and infrastructure automation <br>
-
-
-
 
 Feel free to reach out for collaboration, questions, or to discuss all things tech!
