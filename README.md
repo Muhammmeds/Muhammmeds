@@ -1,18 +1,18 @@
 Hi there 👋
-I'm Muhammed Adekola, a Software Engineer passionate about building robust, scalable solutions and driving innovation in technology.
+I'm Muhammed Adekola, a Software Engineer passionate about building robust, scalable solutions and driving innovation in technology.<br>
 
 About Me
 
-💼 Software Engineer specializing in SaaS, microservices, and cloud-native architectures
-☁️ Cloud engineering, DevOps, and infrastructure automation 
-🤖 Integrating AI into real-world applications
-🌍 Advocate for inclusive, user-focused product development
-🤝 Open to collaboration and knowledge sharing
+💼 Software Engineer specializing in SaaS, microservices, and cloud-native architectures <br>
+☁️ Cloud engineering, DevOps, and infrastructure automation <br>
+🤖 Integrating AI into real-world applications<br>
+🌍 Advocate for inclusive, user-focused product development<br>
+🤝 Open to collaboration and knowledge sharing<br>
 
 
-Interests
-Software architecture & engineering best practices
-Cloud engineering, DevOps, and infrastructure automation 
+Interests<br>
+Software architecture & engineering best practices<br>
+Cloud engineering, DevOps, and infrastructure automation <br>
 
 
 
