@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Muhammed Adekola, a Software Engineer passionate about building robust, scalable solutions and driving innovation in technology.<br>
+I'm Muhammed Adekola, a Software Engineer passionate about building impactful software and solving complex problems. I enjoy exploring new technologies and delivering high-quality solutions, and I’m currently upskilling in cloud and Devops tools including Linux, Networking, AWS, Terraform, Kubernetes and CI/CD workflows.<br>
 
 About Me
 
@@ -11,6 +11,7 @@ About Me
 
 
 Interests<br>
+
 Software architecture & engineering best practices<br>
 Cloud engineering, DevOps, and infrastructure automation <br>
 
